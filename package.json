@@ -1,0 +1,19 @@
+{
+  "name": "mocha_tak",
+  "version": "1.0.0",
+  "description": "mocha chai tak bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "rizkyadindaazizah",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
